@@ -2,7 +2,7 @@
 
 Mini SaaS backend using Node.js, Express, and MongoDB.
 
-## 📦 Features
+##  Features
 
 - **User**
   - `POST /user` – create user (`walletBalance = 100`, empty `claimedDeals`)
@@ -16,7 +16,7 @@ Mini SaaS backend using Node.js, Express, and MongoDB.
 - **Claim**
   - `POST /deals/claim/:userId/:dealId` – claim if enough balance, deduct and track claim
 
-## ⚙️ Setup
+##  Setup
 
 1. Install:
    ```bash
